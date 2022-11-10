@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hello world!");
         System.out.println("merge1 - third commit");
         System.out.println("merge1 - hot fix 1");
+        System.out.println("pull test");
     }
 }
